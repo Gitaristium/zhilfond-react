@@ -4,9 +4,9 @@
 
 Это выполненная мною работа по тестовому заданию на вакансию Frontend-разработчик
 \
-C заданием можно ознакомиться [здесь](https://github.com/Gitaristium/zhilfond-react/blob/main/src/images/test-job-frontend.pdf)\
+C заданием можно ознакомиться [здесь](https://github.com/Gitaristium/zhilfond-react/blob/main/src/images/test-job-frontend.pdf)
 
-[Тык, чтобы открыть рабочий билд](https://gitaristium.github.io/zhilfond-react/)\
+[Тык, чтобы открыть рабочий билд](https://gitaristium.github.io/zhilfond-react/)
 
 ### Десктопная версия
 
