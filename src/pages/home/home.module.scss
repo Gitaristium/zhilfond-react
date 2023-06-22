@@ -1,0 +1,9 @@
+.clear {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: -webkit-fill-available;
+    background-color: var(--white);
+    padding: 20px;
+    text-align: center;
+}
