@@ -6,7 +6,11 @@
 \
 C заданием можно ознакомиться [здесь](https://github.com/Gitaristium/zhilfond-react/blob/main/src/images/test-job-frontend.pdf)
 
-[Тык, чтобы открыть рабочий билд](https://gitaristium.github.io/zhilfond-react/)
+Собрал две версии на REACT и на [VUE](https://github.com/Gitaristium/zhilfond-vue/)
+
+[Тык, чтобы открыть рабочий REACT-билд](https://gitaristium.github.io/zhilfond-react/)
+
+[Тык, чтобы открыть рабочий VUE-билд](https://gitaristium.github.io/zhilfond-vue/)
 
 ### Десктопная версия
 
